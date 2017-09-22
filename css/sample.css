@@ -296,15 +296,6 @@ footer {
 html {
   font-size: 62.5%; }
 
-h3 {
-  display: block;
-  font-size: 1.17em;
-  -webkit-margin-before: 1em;
-  -webkit-margin-after: 1em;
-  -webkit-margin-start: 0px;
-  -webkit-margin-end: 0px;
-  font-weight: bold; }
-
 #contents #sidebar .pc_sidemenu h3 {
   color: #42b9d0;
   font-size: 14px;
@@ -411,5 +402,7 @@ footer {
     display: inline-block;
     margin-bottom: 0;
     padding-right: 10px; } }
+#contents #sidebar {
+  padding-bottom: 20px; }
 
 /*# sourceMappingURL=sample.css.map */
